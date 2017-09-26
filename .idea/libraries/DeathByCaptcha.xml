@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DeathByCaptcha">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../captchaSolver/src/dbc_api_java/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../captchaSolver/src" />
+    </SOURCES>
+  </library>
+</component>
